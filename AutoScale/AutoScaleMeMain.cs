@@ -5,7 +5,7 @@ namespace TinyMe
 {
     public class AutoScaleMeMain : EXILED.Plugin
     {
-        public override string getName => "TinyMe";
+        public override string getName => "AutoScale";
         public static float ScaleValue;
         public AutoScaleEventHandler Handler;
         bool EnablePlugin;
